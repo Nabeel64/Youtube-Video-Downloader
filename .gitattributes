@@ -1,1 +1,2 @@
 *.bib -linguist-detectable
+paper/* linguist-documentation
